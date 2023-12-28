@@ -22,12 +22,12 @@ Author: [Bonan Yan](http://bonany.cc) :)
 
 |                    File                     | Version | URL                                                                               |
 | :-----------------------------------------: | :-----: | --------------------------------------------------------------------------------- |
-| PIM macro behavioral model, Verilog version |   v2    | [\[download\]](https://github.com/bonanyan/pim-gym/src/pim-verilog-bmodel.tar.gz) |
-| PIM macro behavioral model, Chisel version  |   v2    | [\[download\]](https://github.com/bonanyan/pim-gym/src/pim-chisel-bmodel.tar.gz)  |
-|                 SoC, Type 1                 |   v1    | [\[download\]](https://github.com/bonanyan/pim-gym/src/pim-chisel-bmodel.tar.gz)  |
-|                 SoC, Type 2                 |   v1    | [\[download\]](https://github.com/bonanyan/pim-gym/src/pim-chisel-bmodel.tar.gz)  |
-|                 SoC, Type 3                 |   v1    | [\[download\]](https://github.com/bonanyan/pim-gym/src/pim-chisel-bmodel.tar.gz)  |
-|                 SoC, Type 4                 |   v1    | [\[download\]](https://github.com/bonanyan/pim-gym/src/pim-chisel-bmodel.tar.gz)  |
+| PIM macro behavioral model, Verilog version |   v2    | [\[download\]](https://github.com/bonanyan/pim-gym/raw/main/src/pim-verilog-bmodel.tar.gz) |
+| PIM macro behavioral model, Chisel version  |   v2    | [\[download\]](https://github.com/bonanyan/pim-gym/raw/main/src/pim-chisel-bmodel.tar.gz)  |
+|                 SoC, Type 1                 |   v1    | [\[download\]](https://github.com/bonanyan/pim-gym/raw/main/src/pim-chisel-bmodel.tar.gz)  |
+|                 SoC, Type 2                 |   v1    | [\[download\]](https://github.com/bonanyan/pim-gym/raw/main/src/pim-chisel-bmodel.tar.gz)  |
+|                 SoC, Type 3                 |   v1    | [\[download\]](https://github.com/bonanyan/pim-gym/raw/main/src/pim-chisel-bmodel.tar.gz)  |
+|                 SoC, Type 4                 |   v1    | [\[download\]](https://github.com/bonanyan/pim-gym/raw/main/src/pim-chisel-bmodel.tar.gz)  |
 
 SoC Categories:
 - Type 1: 
