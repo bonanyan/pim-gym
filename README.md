@@ -23,7 +23,7 @@ Author: [Bonan Yan](http://bonany.cc) :)
 |                    File                     | Version | URL                                         |
 | :-----------------------------------------: | :-----: | ------------------------------------------- |
 | PIM macro behavioral model, Verilog version |   v2    | [\[download\]](http://bonany.cc/pim-gym/src/pim-verilog-bmodel.tar.gz) |
-| PIM macro behavioral model, Verilog version |   v2    | [\[download\]](http://bonany.cc/pim-gym/src/pim-chisel-bmodel.tar.gz) |
+| PIM macro behavioral model, Chisel version |   v2    | [\[download\]](http://bonany.cc/pim-gym/src/pim-chisel-bmodel.tar.gz) |
 |                 SoC, Type 1                 |   v1    | [\[download\]](http://bonany.cc/XXX.tar.gz) |
 |                 SoC, Type 2                 |   v1    | [\[download\]](http://bonany.cc/XXX.tar.gz) |
 |                 SoC, Type 3                 |   v1    | [\[download\]](http://bonany.cc/XXX.tar.gz) |
@@ -143,12 +143,39 @@ Refer to [chisel local install]
 - install *sbt*
 - Good to go run the main entry
 
+-----
 
+## :checkered_flag: Type 1 SoC: 
+
+-----
+
+## :checkered_flag: Type 2 SoC: 
+
+-----
+
+## :checkered_flag: Type 3 SoC: 
+
+-----
+
+## :checkered_flag: Type 4 SoC: 
+
+
+---
 
 ## Citation
+Please cite this work as: 
+
+```
+XXX, XXX, XXX
+```
+
+or use Bibtex:
 ```bibtex
-@article
-{
-    
+@article{pimgym,
+    author = {Yan, Bonan},
+    journal = {arXiv preprint arXiv:2202.07646},
+    title = {Quantifying memorization across neural language models},
+    url = {https://arxiv.org/abs/2202.07646},
+    year = {2022}
 }
 ```
