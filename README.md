@@ -117,7 +117,7 @@ tar xvzf pim-chisel-bmodel.tar.gz
 cd pim-chisel-bmodel
 ```
 
-Select one of the following:
+### Step 2: Select one of the following:
 
 (a) Test normal memory:
 ```bash
