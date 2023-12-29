@@ -1,4 +1,4 @@
-```
+<!-- ```
 πππππππ\ ππππππ\ ππ\      ππ\        ππππππ\                          
 ππ  __ππ\\_ππ  _|πππ\    πππ |      ππ  __ππ\                         
 ππ |  ππ | ππ |  ππππ\  ππππ |      ππ /  \__|ππ\   ππ\ ππππππ\ππππ\  
@@ -10,8 +10,9 @@
                                               ππ\   ππ |              
                                               \ππππππ  |              
                                                \______/               
-```
-# PIM Gym
+``` -->
+![PIM Gym](/asset/logo.webp)
+
 **Collection of Baseline Designs for Memory-Centric Tensor Processing SoC**
 
 Author: [Bonan Yan](http://bonany.cc) :) 
@@ -20,8 +21,8 @@ Author: [Bonan Yan](http://bonany.cc) :)
 
 ## Quick Downloads in This Repo
 
-|                    File                     | Version | URL                                                                               |
-| :-----------------------------------------: | :-----: | --------------------------------------------------------------------------------- |
+|                    File                     | Version | URL                                                                                        |
+| :-----------------------------------------: | :-----: | ------------------------------------------------------------------------------------------ |
 | PIM macro behavioral model, Verilog version |   v2    | [\[download\]](https://github.com/bonanyan/pim-gym/raw/main/src/pim-verilog-bmodel.tar.gz) |
 | PIM macro behavioral model, Chisel version  |   v2    | [\[download\]](https://github.com/bonanyan/pim-gym/raw/main/src/pim-chisel-bmodel.tar.gz)  |
 |                 SoC, Type 1                 |   v1    | [\[download\]](https://github.com/bonanyan/pim-gym/raw/main/src/pim-chisel-bmodel.tar.gz)  |
