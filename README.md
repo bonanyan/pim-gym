@@ -1,6 +1,7 @@
 
-![Static Badge](https://img.shields.io/badge/Apache-License-red)
-![Static Badge](https://img.shields.io/badge/Github-Repo-red)
+![Static Badge](https://img.shields.io/badge/MIT-License-blue)
+![Static Badge](https://img.shields.io/badge/Github-Repo-blue)
+![Static Badge](https://img.shields.io/badge/SoC-Design-blue)
 
 ![PIM Gym](/asset/logo.webp)
 
