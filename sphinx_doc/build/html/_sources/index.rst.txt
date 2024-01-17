@@ -7,7 +7,7 @@
    :width: 350
    :align: center
 
-Welcome to **PIM-Gym**!
+Welcome to **PIM-Gym**!🐾
 ==============================================
 
 *PIM-Gym* is a project to integrate PIM/CIM macros into SoC design!
