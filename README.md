@@ -172,3 +172,8 @@ or use Bibtex:
     year = {2022}
 }
 ```
+
+## To update docs:
+```
+source make_doc_page.sh
+```
