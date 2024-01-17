@@ -3,7 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/Github-Repo-blue)
 ![Static Badge](https://img.shields.io/badge/SoC-Design-blue)
 
-![PIM Gym](/asset/logo.webp)
+![PIM Gym](/sphinx_doc/source/_static/images/logo.webp)
 
 **Collection of Baseline Designs for Memory-Centric Tensor Processing SoC**
 
