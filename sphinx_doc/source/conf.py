@@ -23,7 +23,7 @@ exclude_patterns = []
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'furo'
+html_static_path = ['_static']
 html_context = {
    "default_mode": "light"
 }
-html_static_path = ['_static']
